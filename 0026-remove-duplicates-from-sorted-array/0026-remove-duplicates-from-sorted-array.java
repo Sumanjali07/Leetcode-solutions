@@ -1,6 +1,6 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int j=0;
+        int j=0;//first element is always unique,since array is already sorted
         for(int i=1;i<nums.length;i++){
             if(nums[j] != nums[i]){
                 j++;
