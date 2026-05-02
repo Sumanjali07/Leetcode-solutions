@@ -17,6 +17,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
