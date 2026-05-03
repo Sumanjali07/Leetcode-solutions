@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
