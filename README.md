@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -53,6 +55,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
