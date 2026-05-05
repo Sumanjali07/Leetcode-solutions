@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0061-rotate-list) |
 ## String Matching
 |  |
 | ------- |
