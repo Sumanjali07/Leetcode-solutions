@@ -12,6 +12,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -129,6 +131,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1345-jump-game-iv](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
