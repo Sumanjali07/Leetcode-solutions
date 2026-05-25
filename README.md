@@ -100,6 +100,7 @@
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Linked List
 |  |
@@ -123,6 +125,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -168,4 +171,8 @@
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
