@@ -39,6 +39,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -57,6 +58,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -94,6 +96,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +242,7 @@
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
