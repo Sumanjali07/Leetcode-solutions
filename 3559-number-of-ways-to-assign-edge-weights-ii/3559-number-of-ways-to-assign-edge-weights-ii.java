@@ -1,109 +1,82 @@
-import java.util.*;
-
 class Solution {
-    static final int MOD = 1_000_000_007;
-    int LOG;
-    int[][] up;
-    int[] depth;
-    List<Integer>[] graph;
+  public int[] assignEdgeWeights(int[][] edges, int[][] queries) {
+    final int n = edges.length + 1;
+    int[] ans = new int[queries.length];
+    final int[] depth = new int[n + 1];
+    final int[][] parent = new int[LOG][n + 1];
+    List<Integer>[] graph = new List[n + 1];
+    Arrays.setAll(graph, i -> new ArrayList<>());
 
-    public int[] assignEdgeWeights(int[][] edges, int[][] queries) {
-        int n = edges.length + 1;
-
-        graph = new ArrayList[n + 1];
-        for (int i = 1; i <= n; i++) {
-            graph[i] = new ArrayList<>();
-        }
-
-        for (int[] e : edges) {
-            int u = e[0], v = e[1];
-            graph[u].add(v);
-            graph[v].add(u);
-        }
-
-        LOG = 1;
-        while ((1 << LOG) <= n) LOG++;
-
-        up = new int[n + 1][LOG];
-        depth = new int[n + 1];
-
-        dfs(1, 0);
-
-        for (int j = 1; j < LOG; j++) {
-            for (int i = 1; i <= n; i++) {
-                up[i][j] = up[up[i][j - 1]][j - 1];
-            }
-        }
-
-        long[] pow2 = new long[n];
-        pow2[0] = 1;
-        for (int i = 1; i < n; i++) {
-            pow2[i] = (pow2[i - 1] * 2) % MOD;
-        }
-
-        int m = queries.length;
-        int[] ans = new int[m];
-
-        for (int i = 0; i < m; i++) {
-            int u = queries[i][0];
-            int v = queries[i][1];
-
-            int lca = lca(u, v);
-            int dist = depth[u] + depth[v] - 2 * depth[lca];
-
-            if (dist == 0) {
-                ans[i] = 0;
-            } else {
-                ans[i] = (int) pow2[dist - 1];
-            }
-        }
-
-        return ans;
+    for (int[] edge : edges) {
+      final int u = edge[0];
+      final int v = edge[1];
+      graph[u].add(v);
+      graph[v].add(u);
     }
 
-    private void dfs(int root, int parent) {
-        Deque<int[]> stack = new ArrayDeque<>();
-        stack.push(new int[]{root, parent});
+    dfs(1, -1, graph, parent, depth);
 
-        while (!stack.isEmpty()) {
-            int[] cur = stack.pop();
-            int node = cur[0];
-            int par = cur[1];
+    for (int k = 1; k < LOG; ++k)
+      for (int v = 1; v <= n; ++v)
+        if (parent[k - 1][v] != -1)
+          parent[k][v] = parent[k - 1][parent[k - 1][v]];
 
-            up[node][0] = par;
-
-            for (int nxt : graph[node]) {
-                if (nxt == par) continue;
-                depth[nxt] = depth[node] + 1;
-                stack.push(new int[]{nxt, node});
-            }
-        }
+    for (int i = 0; i < queries.length; ++i) {
+      final int u = queries[i][0];
+      final int v = queries[i][1];
+      if (u == v) {
+        ans[i] = 0;
+      } else {
+        final int a = lca(u, v, parent, depth);
+        final int d = depth[u] + depth[v] - 2 * depth[a];
+        ans[i] = modPow(2, d - 1);
+      }
     }
 
-    private int lca(int a, int b) {
-        if (depth[a] < depth[b]) {
-            int temp = a;
-            a = b;
-            b = temp;
-        }
+    return ans;
+  }
 
-        int diff = depth[a] - depth[b];
+  private static final int MOD = 1_000_000_007;
+  private static final int LOG = 17; // since 2^17 > 1e5
 
-        for (int j = LOG - 1; j >= 0; j--) {
-            if (((diff >> j) & 1) == 1) {
-                a = up[a][j];
-            }
-        }
-
-        if (a == b) return a;
-
-        for (int j = LOG - 1; j >= 0; j--) {
-            if (up[a][j] != up[b][j]) {
-                a = up[a][j];
-                b = up[b][j];
-            }
-        }
-
-        return up[a][0];
+  private void dfs(int u, int p, java.util.List<Integer>[] graph, int[][] parent, int[] depth) {
+    parent[0][u] = p;
+    for (int v : graph[u]) {
+      if (v != p) {
+        depth[v] = depth[u] + 1;
+        dfs(v, u, graph, parent, depth);
+      }
     }
+  }
+
+  private int lca(int u, int v, int[][] parent, int[] depth) {
+    if (depth[u] < depth[v]) {
+      final int temp = u;
+      u = v;
+      v = temp;
+    }
+
+    for (int k = LOG - 1; k >= 0; --k)
+      if (parent[k][u] != -1 && depth[parent[k][u]] >= depth[v])
+        u = parent[k][u];
+
+    if (u == v)
+      return u;
+
+    for (int k = LOG - 1; k >= 0; --k)
+      if (parent[k][u] != -1 && parent[k][u] != parent[k][v]) {
+        u = parent[k][u];
+        v = parent[k][v];
+      }
+
+    return parent[0][u];
+  }
+
+  private int modPow(long x, long n) {
+    if (n == 0)
+      return 1;
+    if (n % 2 == 1)
+      return (int) (x * modPow(x % MOD, (n - 1)) % MOD);
+    return modPow(x * x % MOD, (n / 2)) % MOD;
+  }
 }
