@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -314,6 +316,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
