@@ -179,6 +179,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -218,6 +219,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -266,6 +268,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
