@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -118,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -254,6 +256,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [1861-rotating-the-box](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
