@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -165,6 +166,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -280,6 +282,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
