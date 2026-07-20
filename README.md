@@ -18,6 +18,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [1260-shift-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -314,6 +316,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
