@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
