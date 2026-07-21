@@ -19,6 +19,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -215,6 +216,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -289,6 +291,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1345-jump-game-iv) |
