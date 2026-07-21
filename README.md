@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -127,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -269,6 +271,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0061-rotate-list) |
