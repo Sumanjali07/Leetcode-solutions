@@ -3,10 +3,10 @@ class Solution {
         List<Integer> ans=new ArrayList<>();
         int n=nums.length;
         for(int num:nums){
+            int cnt=0;
             if(ans.contains(num)){
                 continue;
             }
-            int cnt=0;
             for(int i=0;i<n;i++){
                 if(nums[i]==num){
                     cnt++;
