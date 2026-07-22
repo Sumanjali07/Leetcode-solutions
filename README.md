@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
