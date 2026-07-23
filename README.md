@@ -23,6 +23,7 @@
 | [0229-majority-element-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -113,6 +114,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3161-block-placement-queries) |
