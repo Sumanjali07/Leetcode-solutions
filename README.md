@@ -210,6 +210,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -369,6 +370,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -444,6 +446,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -497,6 +500,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
