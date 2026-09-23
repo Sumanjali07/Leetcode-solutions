@@ -46,6 +46,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -184,6 +185,7 @@
 | [0875-koko-eating-bananas](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -335,6 +337,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -455,6 +458,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -547,6 +551,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
