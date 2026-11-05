@@ -42,6 +42,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -218,6 +219,7 @@
 | [0704-binary-search](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -255,6 +257,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -506,6 +509,7 @@
 | [0061-rotate-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
