@@ -107,6 +107,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -429,6 +430,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -682,6 +684,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sumanjali07/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Indexed Tree
